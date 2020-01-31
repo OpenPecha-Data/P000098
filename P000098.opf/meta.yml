@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །ཡོན་ཏན་རིན་པོ་ཆེའི་མཛོད་ཀྱི་རྒྱ་ཆེར་འགྲེལ་པ་བདེན་གཉིས་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། རིག་འཛིན་འཇིགས་མེད་གླིང་པས་མཛད།
+  sku: SHE-012
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: The Chariot of the Two Truths:An Extensive Commentary on Treasury of Precious
+      Qualities
+    bo: ཡོན་ཏན་རིན་པོ་ཆེའི་མཛོད་ཀྱི་རྒྱ་ཆེར་འགྲེལ་པ་བདེན་གཉིས་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Shechen Tantra Series–  Book 12
+    bo: ''
+  author:
+    en: Rigzin Jigme Ling
+    bo: རིག་འཛིན་འཇིགས་མེད་གླིང།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-012
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-012.epub
+  description:
+    en: ''
+    bo: ''
