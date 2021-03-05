@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000098
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཡོན་ཏན་རིན་པོ་ཆེའི་མཛོད་ཀྱི་རྒྱ་ཆེར་འགྲེལ་པ་བདེན་གཉིས་ཤིང་རྟ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། རིག་འཛིན་འཇིགས་མེད་གླིང་པས་མཛད།
-  sku: SHE-012
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: SHE-012
 web_metadata:
   title:
     en: The Chariot of the Two Truths:An Extensive Commentary on Treasury of Precious
